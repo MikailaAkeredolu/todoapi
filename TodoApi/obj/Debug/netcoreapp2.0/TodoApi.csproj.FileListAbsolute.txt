@@ -1,0 +1,11 @@
+/Users/makerofapps/projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/makerofapps/projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/makerofapps/projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/makerofapps/projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/makerofapps/projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/makerofapps/projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/makerofapps/projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/makerofapps/projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/makerofapps/projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/makerofapps/projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/makerofapps/projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csprojResolveAssemblyReference.cache
